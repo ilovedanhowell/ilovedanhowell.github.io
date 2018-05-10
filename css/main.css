@@ -1,0 +1,25 @@
+.top {
+	height: 200px;
+	background-color: #bedaab;
+	text-align: center;
+	background-image: url(../img/Patates.jpg);
+	color: #fff;
+
+}
+.top h1 {
+	margin-top: 65px;
+}
+section {
+	margin: 30px;
+}
+
+.ancor a {
+	background-color: #c1e759;
+	padding: 10px 5px;
+	color: #0d810a;
+	border-radius: 5px;
+}
+
+body {
+	background-color: #d7f1ef;
+}
